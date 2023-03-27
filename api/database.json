@@ -1,0 +1,43 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "2",
+      "plumberId": "1",
+      "date_created": "2023-03-27T18:41:30.532Z",
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Leaky Sink",
+      "address": "102 Fixit Street",
+      "budget": "200.00",
+      "neededBy": "2023-03-29",
+      "id": 2
+    },
+    {
+      "description": "Broken Bath",
+      "address": "340 Help Me Lane",
+      "budget": "750.00",
+      "neededBy": "2023-04-11",
+      "id": 3
+    }
+  ]
+}
